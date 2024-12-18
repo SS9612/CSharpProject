@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "e9556b32-8f52-488a-8a9f-30472c123b3e",
+    "FirstName": "Stefan",
+    "LastName": "Strandberg",
+    "Email": "Stefan.m.strandberg@hotmail.com",
+    "PhoneNumber": "0734036682",
+    "StreetAddress": "Barometergatan 44",
+    "PostalCode": "21117",
+    "City": "Malm\u00F6"
+  },
+  {
+    "Id": "fac24dd4-9f5b-409e-a4c1-fb26fd537544",
+    "FirstName": "Hej",
+    "LastName": "D\u00E5",
+    "Email": "Hejd\u00E5123@hotmail.com",
+    "PhoneNumber": "03403682",
+    "StreetAddress": "hejd\u00E5gatan",
+    "PostalCode": "21144",
+    "City": "hejd\u00E5"
+  },
+  {
+    "Id": "79ee84f3-46e7-4d30-8239-270ef4b00cbd",
+    "FirstName": "s",
+    "LastName": "2",
+    "Email": "32",
+    "PhoneNumber": "4",
+    "StreetAddress": "3",
+    "PostalCode": "5",
+    "City": "5"
+  }
+]

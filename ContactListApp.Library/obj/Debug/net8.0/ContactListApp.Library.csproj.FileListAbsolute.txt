@@ -1,0 +1,11 @@
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\bin\Debug\net8.0\ContactListApp.Library.deps.json
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\bin\Debug\net8.0\ContactListApp.Library.dll
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\bin\Debug\net8.0\ContactListApp.Library.pdb
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.AssemblyInfoInputs.cache
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.AssemblyInfo.cs
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.dll
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\refint\ContactListApp.Library.dll
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ContactListApp.Library.pdb
+C:\Users\Stefa\source\repos\CSharp\ContactListApp.Library\obj\Debug\net8.0\ref\ContactListApp.Library.dll
